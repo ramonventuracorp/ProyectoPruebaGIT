@@ -1,2 +1,3 @@
-﻿// See https://aka.ms/new-console-template for more information
-Console.WriteLine("Hello, World!");
+﻿//RAMON HUMBERTO VENTURA RODRIGUEZ
+
+Console.WriteLine("hola mundo");
